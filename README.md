@@ -8,13 +8,13 @@ Into Agile Software development, clean code connoisseur and testing aficionado
 
 ---
 
-Blogging frequently on [cri.dev](https://cri.dev/) 📖
+#### Blogging frequently on [cri.dev](https://cri.dev/) 📖
 
 See a visualization of my [GitHub contributions](https://cri.dev/contributions/) and my [GitHub Sponsors profile](https://github.com/sponsors/christian-fei) 🍕
 
 Working almost daily with Node.js, JavaScript, dabbing in Elixir and Python 🚀
 
-📫 How to reach me: 
+##### How to reach me 📫 
 
 - hey at cri dot dev
 - [christian_fei](https://twitter.com/christian_fei)
