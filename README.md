@@ -6,10 +6,6 @@ A passionate web developer from Italy
 
 Into Agile Software development, clean code connoisseur and testing aficionado
 
-## Check out [decent.social](https://decent.social/)
-
----
-
 #### Blogging frequently on [cri.dev](https://cri.dev/) 📖
 
 Working almost daily with Node.js, JavaScript, dabbing in Elixir and Python 🚀
