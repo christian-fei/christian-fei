@@ -8,7 +8,7 @@ Into Agile Software development, clean code connoisseur and testing aficionado
 
 #### Blogging frequently on [cri.dev](https://cri.dev/) 📖
 
-Working almost daily with Node.js, JavaScript, dabbling in Elixir and Python 🚀
+Node.js & Elixir 🚀
 
 ##### How to reach me 📫 
 
