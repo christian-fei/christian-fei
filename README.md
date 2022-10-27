@@ -12,4 +12,4 @@ Node.js & Elixir 🚀
 
 ##### How to reach me 📫 
 
-- hey at cri dot dev
+- hey [that twisty "a" character] cri.dev
