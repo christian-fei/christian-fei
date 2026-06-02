@@ -14,4 +14,4 @@ Node.js & Elixir 🚀
 
 ##### How to reach me 📫 
 
-- hey [that twisty "a" character] cri.dev
+https://cri.dev/contact
